@@ -1,0 +1,31 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+You are free to:
+
+✅ Share — copy and redistribute the material in any medium or format  
+✅ Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+📌 Attribution — You must give appropriate credit, link to this license, and indicate if changes were made.  
+You must credit the original author: **Neelansh Kasniya**  
+GitHub: https://github.com/<your-username>
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## 📦 Firmware Disclaimer
+
+This module includes firmware files (`.mbn`, `.bin`) extracted from **LineageOS 22.2 (Moto Edge 20)**, originally distributed under their terms.  
+These firmware files may include proprietary binaries owned by **Motorola** and/or **Qualcomm**.
+
+They are provided **only for educational use, device compatibility, and fair-use redistribution** on the Nothing Phone 1, which uses the same SoC (SM7325 / lahaina).
+
+All rights to the original firmware remain with their respective owners.
+
+---
+
+## 📄 Full License
+
+https://creativecommons.org/licenses/by/4.0/
