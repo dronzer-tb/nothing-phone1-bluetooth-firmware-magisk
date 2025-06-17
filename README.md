@@ -48,3 +48,12 @@ This is a Magisk module that injects the missing Bluetooth firmware for custom R
     Should persist across reboots and OTAs (as long as Magisk remains installed)
 
     Works only on devices with read-only vendor and missing BT firmware blobs
+
+## 🙏 Credits
+
+This project would not be possible without the following:
+
+- **LineageOS** — for providing the base firmware blobs (extracted from LineageOS 22.2 build for Moto Edge 20)
+  - https://lineageos.org/
+- **Magisk** by @topjohnwu — for the systemless module framework
+  - https://github.com/topjohnwu/Magisk
