@@ -1,0 +1,6 @@
+id=bluetooth_firmware_fix
+name=Bluetooth Firmware Fix for Nothing Phone 1
+version=v1.0
+versionCode=1
+author=Kasniya
+description=Fixes missing Bluetooth firmware (msbtfw11.mbn, msnv11.bin) for Nothing Phone 1 running custom ROMs
